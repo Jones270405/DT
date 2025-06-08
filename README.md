@@ -45,6 +45,11 @@ You: What is gravity?
 AI: Gravity is the force that attracts two bodies toward each other. On Earth, it gives weight to physical objects and causes them to fall toward the ground when dropped.
 ```
 
+## Example Screenshot
+
+![Screenshot of the AI Agent](image.jpg) 
+
+
 ## What can’t it do (yet)?
 
 - It doesn’t remember things between sessions.
