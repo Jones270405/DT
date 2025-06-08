@@ -47,7 +47,7 @@ AI: Gravity is the force that attracts two bodies toward each other. On Earth, i
 
 ## Example Screenshot
 
-![Screenshot of the AI Agent](image.jpg) 
+![Screenshot of the AI Agent]("C:\Users\Admin\OneDrive\Desktop\output.png") 
 
 
 ## What can’t it do (yet)?
